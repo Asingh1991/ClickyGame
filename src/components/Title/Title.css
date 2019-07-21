@@ -1,0 +1,25 @@
+#titlebox {
+    background-image: url('/img/header_cropped.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 280px;
+    text-align: center;
+    vertical-align: center;
+    font-family: Oswald, 'Courier New', Courier, monospace;
+    color: #fff;
+    margin: 30px;
+}
+
+#titlebox h1 {
+    margin-top: 90px;
+    font-size: 4em;
+}
+
+#titlebox p {
+    font-size: 2em;
+}
+
+#shadowbox {
+    background-color: rgba(0, 0, 0, 0.5);
+}
